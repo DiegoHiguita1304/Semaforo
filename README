@@ -1,0 +1,33 @@
+# Proyecto Semáforo
+
+* Este proyecto es una simulación de un semáforo utilizando HTML, CSS y JavaScript. El semáforo cambia de color automáticamente cada cuatro segundo, alternando entre rojo, amarillo y verde.
+
+## Contenidos
+
+- [Instalación](#instalación)
+- [Uso](#uso)
+- [Estructura del Proyecto](#estructura-del-proyecto)
+- [Créditos](#créditos)
+
+## Instalación
+
+* Clona este repositorio en tu máquina local.
+   ```bash
+   git clone https://github.com/DiegoHiguita1304/Semáforo.git
+
+## Uso
+
+* Abre el archivo index.html en tu navegador web.
+* Deberías ver una representación visual de un semáforo que cambia de color automáticamente cada segundo.
+
+## Estructura del Proyecto
+
+* semaforo/
+  │
+* ├── index.html
+* ├── style.css
+* └── script.js
+
+## Creditos
+
+* Este proyecto fue creado por Diego Higuita. Si tienes alguna pregunta o sugerencia, no dudes en contactarme.
